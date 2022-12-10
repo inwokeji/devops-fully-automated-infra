@@ -1,7 +1,8 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "vamsi-chunduru"
+    default = "my-jenkins2"
+    
 }
 
 # variable "vpc_id" {
